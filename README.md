@@ -31,7 +31,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emilhs9&" alt="emilhs9" /></p>
+
 
 
   ![snake
