@@ -1,4 +1,4 @@
-![MasterHead](https://sukhbinder.wordpress.com/wp-content/uploads/2022/01/snow_banner_o.gif)
+![MasterHead](https://i.hizliresim.com/7l2ihc8.png)
 <h1 align="center">Hi 👋, I'm Emil Suleymanli</h1>
 <h3 align="center">A passionate full-stack developer from Azerbaijan.</h3>
 
