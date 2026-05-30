@@ -1,4 +1,4 @@
-https://img.magnific.com/free-photo/laptop-with-glowing-screen-table-dark-top-view-copy-space_169016-51607.jpg?semt=ais_hybrid&w=740&q=80
+[![MasterHead](https://img.magnific.com/free-photo/laptop-with-glowing-screen-table-dark-top-view-copy-space_169016-51607.jpg?semt=ais_hybrid&w=740&q=80)
 <h1 align="center">Hi 👋, I'm Emil Suleymanli</h1>
 <h3 align="center">A passionate full-stack developer from Azerbaijan.</h3>
 
