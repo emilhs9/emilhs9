@@ -1,4 +1,4 @@
-![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNzem41Ym9sOGN2MDdweGhtenpudXBvOXJzbDQzeTBta3prYm9kNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1wq4Z3MvB8eGxvakbQ/giphy.gif)
+![MasterHead](https://sukhbinder.wordpress.com/wp-content/uploads/2022/01/snow_banner_o.gif)
 <h1 align="center">Hi 👋, I'm Emil Suleymanli</h1>
 <h3 align="center">A passionate full-stack developer from Azerbaijan.</h3>
 
