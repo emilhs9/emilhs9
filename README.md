@@ -1,4 +1,4 @@
-![MasterHead](https://i.hizliresim.com/7l2ihc8.png)
+![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjUzNGN1aWpnemp2aXpvMmJnZHduNWhoOHhmd3hmMTJ6NnBtbjV4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/n3UBd63oVlQLC/200.webp)
 <h1 align="center">Hi 👋, I'm Emil Suleymanli</h1>
 <h3 align="center">A passionate full-stack developer from Azerbaijan.</h3>
 
