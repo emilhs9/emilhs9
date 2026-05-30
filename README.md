@@ -1,4 +1,4 @@
-![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjUzNGN1aWpnemp2aXpvMmJnZHduNWhoOHhmd3hmMTJ6NnBtbjV4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/n3UBd63oVlQLC/200.webp)
+![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxqZWg0cnJsZTc4enpmNWtocTc2bjJuejcwdXUwYjdyY3ZqMDE2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MPOp0rmUUEKfcvFckS/giphy.gif)
 <h1 align="center">Hi 👋, I'm Emil Suleymanli</h1>
 <h3 align="center">A passionate full-stack developer from Azerbaijan.</h3>
 
