@@ -32,31 +32,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emilhs9&" alt="emilhs9" /></p>
 
-<table>
-<tr>
-<td width="70%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=emilhs9&theme=dark" alt="emilhs9" />
-</td>
-
-<td width="30%" valign="top">
-
-<h3>🚀 Quick Info</h3>
-
-💻 Full Stack Developer<br>
-⚡ NestJS & React Developer<br>
-☁️ AWS & Docker Enthusiast<br>
-🗄️ MySQL & PostgreSQL<br>
-🎮 Discord Bot Developer<br>
-🌍 Azerbaijan
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
 
 
   ![snake
