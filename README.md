@@ -1,6 +1,7 @@
 ![MasterHead](https://i.hizliresim.com/7l2ihc8.png)
 <h1 align="center">Hi 👋, I'm Emil Suleymanli</h1>
 <h3 align="center">A passionate full-stack developer from Azerbaijan.</h3>
+<bgcolor="red">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
