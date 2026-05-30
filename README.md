@@ -18,4 +18,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=timless9&" alt="timless9" /></p>
 
-![snake gif](https://github.com/emilhs9/emilhs9/generate-snake-game-from-github-contribution-grid)
+![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
