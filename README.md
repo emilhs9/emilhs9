@@ -1,4 +1,4 @@
-![MasterHead](https://chatgpt.com/backend-api/estuary/content?id=file_00000000c25c724388e8243ec9e2323b&ts=494494&p=fsns&cid=1&sig=440e5d8c81f6d7c2bcba2d3e188929f5a0806ead2aa19ed42cdd3da1122a49b1&v=0)
+![MasterHead](https://hizliresim.com/mmv4uuq)
 <h1 align="center">Hi 👋, I'm Emil Suleymanli</h1>
 <h3 align="center">A passionate full-stack developer from Azerbaijan.</h3>
 
