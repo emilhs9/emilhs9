@@ -6,12 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emilhs9" alt="emilhs9" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/emilhs9" target="blank"><img src="https://img.shields.io/twitter/follow/emilhs9?logo=twitter&style=for-the-badge" alt="emilhs9" /></a> </p>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/emilhs9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="emilhs9" height="30" width="40" /></a>
@@ -38,6 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emilhs9&show_icons=true&locale=en" alt="emilhs9" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emilhs9&" alt="emilhs9" /></p>
+
 
   ![snake
   gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
