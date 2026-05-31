@@ -1,5 +1,5 @@
 ![MasterHead](https://i.hizliresim.com/7l2ihc8.png)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=500&size=39&duration=1000&pause=1000&color=169600&width=435&lines=Code+Create+Innovate)](https://git.io/typing-svg)
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=500&size=39&duration=1000&pause=1000&color=169600&width=435&lines=Code+Create+Innovate" alt="Typing SVG" /></a>
 <h3 align="center">A passionate full-stack developer from Azerbaijan.</h3>
 
 
