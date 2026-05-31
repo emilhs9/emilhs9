@@ -1,4 +1,4 @@
-![MasterHead](https://i.hizliresim.com/7l2ihc8.png)
+
 
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=500&size=39&duration=3000&pause=1000&color=169600&width=435&lines=Code+Create+Innovate" alt="Typing SVG" /></a>
