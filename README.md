@@ -1,5 +1,5 @@
 ![MasterHead](https://i.hizliresim.com/7l2ihc8.png)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=500&size=25&duration=1000&pause=1000&color=169600&width=435&lines=Software+Development+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=500&size=50&duration=1000&pause=1000&color=169600&width=435&lines=Software+Development+Enthusiast)](https://git.io/typing-svg)
 <h3 align="center">A passionate full-stack developer from Azerbaijan.</h3>
 
 
