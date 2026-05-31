@@ -42,7 +42,7 @@
 
 
 
-[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=emilhs9&theme=tokyonight)](https://github.com/emilhs9)
+
 
 
 <p align="center"/>
