@@ -1,11 +1,11 @@
 ![MasterHead](https://i.hizliresim.com/7l2ihc8.png)
-<h3 align="center">A passionate full-stack developer from Azerbaijan.</h3>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=&weight=500&size=39&duration=1000&pause=1000&color=169600&width=435&lines=Code+Create+Innovate" alt="Typing SVG" />
   </a>
 </p>
-
+<h3 align="center">A passionate full-stack developer from Azerbaijan.</h3>
 ![Profile Views](https://komarev.com/ghpvc/?username=theabmmohi&color=00FF9C&style=for-the-badge&label=VISITORS)
 
 
