@@ -3,9 +3,6 @@
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=500&size=39&duration=3000&pause=1000&color=169600&width=435&lines=Code+Create+Innovate" alt="Typing SVG" /></a>
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=800&size=39&duration=8000&pause=1000&color=0058FE&background=FF000000&center=true&vCenter=true&width=435&lines=HS9" alt="Typing SVG" /></a>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=theabmmohi&color=00FF9C&style=for-the-badge&label=VISITORS)
 
 
