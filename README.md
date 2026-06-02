@@ -326,7 +326,7 @@
   />
 </p>
 
-<p align="center">
+<p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=your-github-emilhs9"
     alt="Page Views"
