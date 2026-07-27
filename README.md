@@ -310,15 +310,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=emilhs9&theme=dark&hide_border=true&border_radius=10&date_format=j%2Fn%5B%2FY%5D&card_width=800"
-      alt="GitHub Streak"
-    />
-  </a>
-</p>
-
+ ![image](https://user-images.githubusercontent.com/20955511/183303758-c8c90e09-db0d-4179-a91f-6463489fee7e.png) 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
