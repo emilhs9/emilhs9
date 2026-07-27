@@ -7,7 +7,7 @@
   </a>
 </p>
 
-/a>
+</a>
   <a href="https://instagram.com/hsmw09" target="blank"
     ><img
       align="center"
