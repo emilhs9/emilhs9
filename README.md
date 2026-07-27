@@ -309,9 +309,7 @@
     />
   </a>
 </p>
-<div>
- ![image](https://user-images.githubusercontent.com/20955511/183303758-c8c90e09-db0d-4179-a91f-6463489fee7e.png) 
-</div>
+
   <p align="center">
   <img
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
