@@ -24,7 +24,22 @@
 </picture>
 
 </div>
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/output/snake-light.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/arifhaxn/arifhaxn/output/snake-light.svg" />
+</picture>
+
+</div>
+
+<!-- ===== END SNAKE ===== -->
+<br/>
+<br/>
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/arifhaxn/arifhaxn/projects/projects.svg" alt="Projects" />
+</div>
 <br/>
 <div align="center">
 
